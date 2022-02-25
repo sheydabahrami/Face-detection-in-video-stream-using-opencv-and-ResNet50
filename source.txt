@@ -1,0 +1,4 @@
+https://towardsdatascience.com/how-to-create-real-time-face-detector-ff0e1f81925f
+
+https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
+
